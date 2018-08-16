@@ -9,5 +9,5 @@ console.log(name)
 console.log("Height:")
 console.log(height)
 var name = "Janet"
-console.log("name")
+console.log(name)
 console.log(parseInt(height) + 1)
